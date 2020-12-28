@@ -7,4 +7,4 @@
 **`sklearn_02:`** Logistic Regression Theory Explained with examples
 
 
-[Linear Algebra Course Materials](http://mitran-lab.amath.unc.edu/courses/MATH547ML/MATH547DS.xhtml)
+[Linear Algebra Course Materials](http://mitran-lab.amath.unc.edu/courses/MATH547ML/MATH547DS.xhtml) | [computer vision pdf](http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf)
